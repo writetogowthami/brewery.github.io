@@ -1,0 +1,31 @@
+span.click-container {
+    font-weight: bold;
+    background: #96577F;
+    padding: .3em .8em;
+    cursor: pointer;
+    border-radius: 5px;
+    color: goldenrod;
+}
+span.text-counter{
+    color: #96577F;
+    padding: 0 .4em 0 .8em;
+}
+.play-container {
+    padding: 1.5em 3em;
+    border: 1px solid lightgray;
+    margin-bottom: 1em;
+
+    input {
+        padding: 1em;
+        margin-bottom: 2em;
+    }
+}
+.active{
+    background-color: #96577F;
+    border: 4px solid #c8a3b5
+}
+.notactive{
+    background-color: #C1B6AC;
+}
+span.text-repeat{color: goldenrod}
+symbol-b{margin: 0 auto;}
